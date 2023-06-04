@@ -1,0 +1,10 @@
+{
+  "DataServer": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "changeme",
+    "user": "tq_admin",
+    "password": "tq-admin-pwd",
+    "poolsize": 5
+  }
+}
