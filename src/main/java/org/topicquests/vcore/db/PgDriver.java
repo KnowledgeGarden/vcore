@@ -6,7 +6,7 @@ import io.vertx.pgclient.PgConnectOptions;
 import io.vertx.pgclient.PgPool;
 import io.vertx.sqlclient.PoolOptions;
 import io.vertx.sqlclient.SqlClient;
-import org.topicquests.vcore.conig.Configurator;
+import org.topicquests.vcore.config.Configurator;
 
 /**
  * A generic driver for PostgreSQL

@@ -1,4 +1,4 @@
-package org.topicquests.vcore.conig;
+package org.topicquests.vcore.config;
 
 import io.vertx.core.Vertx;
 import io.vertx.core.json.JsonObject;

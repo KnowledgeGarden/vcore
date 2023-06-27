@@ -6,7 +6,7 @@ import io.vertx.core.json.JsonObject;
 import io.vertx.sqlclient.SqlClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import org.topicquests.vcore.conig.Configurator;
+import org.topicquests.vcore.config.Configurator;
 import org.topicquests.vcore.db.PgDriver;
 
 /**
